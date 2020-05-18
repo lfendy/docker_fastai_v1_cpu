@@ -107,3 +107,4 @@ dependencies:
   - ipywidgets
   - pdpbox<=0.1.0
   - treeinterpreter
+  - jupyter_http_over_ws>=0.0.7
